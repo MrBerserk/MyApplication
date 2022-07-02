@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@id/firstFragment"
+        android:icon="@drawable/ic_baseline_access_alarm_24"
+        android:title="Albums" />
+
+    <item
+        android:id="@id/fragment_2"
+        android:icon="@drawable/ic_baseline_android_24"
+        android:title="Favourites" />
+
+    <item
+        android:id="@id/fragment_3"
+        android:icon="@drawable/ic_baseline_email_24"
+        android:title="Account" />
+
+    <item
+        android:id="@id/fragment_4"
+        android:icon="@drawable/ic_baseline_language_24"
+        android:title="Account" />
+
+    <item
+        android:id="@id/fragment_5"
+        android:icon="@drawable/ic_baseline_local_see_24"
+        android:title="Account" />
+</menu>
